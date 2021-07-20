@@ -9,5 +9,5 @@
 import Foundation
 
 
-let weatherAPI = "http://api.openweathermap.org/data/2.5/weather?appid=1a60287748b666a35ce7f36bb925edc2&units=imperial"
+let weatherAPI = "https://api.openweathermap.org/data/2.5/weather?appid=1a60287748b666a35ce7f36bb925edc2&units=imperial"
 
